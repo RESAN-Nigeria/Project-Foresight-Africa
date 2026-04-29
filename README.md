@@ -4,18 +4,17 @@
 2 to 4 weeks in advance to protect children in Northwest Nigeria.**
 
 Developed by the Resilient Systems Alliance Nigeria (RESAN)
-UNICEF Climate Ventures Cohort 2026 | MIT License
+UNICEF Climate Ventures Cohort 2026|MIT License
 
 ---
-
 ## The Problem
 
-Every August, malaria cases in Northwest Nigeria surge by 20–35% in a 
+Every August, malaria cases in Northwest Nigeria surge by 20-35% in a 
 single month. In August 2022, confirmed cases across Kebbi, Sokoto, and 
-Zamfara jumped from 328,048 to 444,200 — an increase of 116,152 cases 
+Zamfara jumped from 328,048 to 444,200 an increase of 116,152 cases 
 in 30 days. Routine DHIS2 surveillance showed zero warning in July.
 
-During this surge, 94.4% of confirmed cases received no ACT treatment — 
+During this surge, 94.4% of confirmed cases received no ACT treatment 
 not because drugs were absent from Nigeria, but because commodity 
 pre-positioning requires 2–4 weeks of advance notice that the health 
 system did not have.
@@ -56,7 +55,7 @@ Founder & Director, RESAN
 ORCID: 0009-0009-2931-8964
 
 ## License
-MIT License — see LICENSE file
+MIT License - see LICENSE file
 
 ## Status
 Under active development with UNICEF Climate Ventures 2026 support.
