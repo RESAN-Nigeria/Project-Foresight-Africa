@@ -1,7 +1,7 @@
 # Project Foresight Africa
 
 **An open-source AI platform predicting climate-driven malaria surges 
-2–4 weeks in advance to protect children in Northwest Nigeria.**
+2 to 4 weeks in advance to protect children in Northwest Nigeria.**
 
 Developed by the Resilient Systems Alliance Nigeria (RESAN)
 UNICEF Climate Ventures Cohort 2026 | MIT License
