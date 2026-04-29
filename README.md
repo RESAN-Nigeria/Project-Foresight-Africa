@@ -41,8 +41,8 @@ The August surge pattern is reproducible every year:
 | 2023 | 291,155   | 355,439     | +22.1% |
 | 2024 | 272,607   | 326,842     | +19.9% |
 
-July DHIS2 data showed -0.6% MoM in 2022 — no warning signal.
-July rainfall accumulation would have flagged the surge 2–4 weeks earlier.
+July DHIS2 data showed -0.6% MoM in 2022, no warning signal.
+July rainfall accumulation would have flagged the surge 2-4 weeks earlier.
 
 ## Study States
 - Kebbi State, Nigeria
